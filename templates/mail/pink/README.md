@@ -62,7 +62,7 @@
     <div style="width: 100%; text-align: center; margin-bottom:20px;">
         <img width="185px" src="https://lwfiles.mycourse.app/6485e0440c0c35ee7db7d97c-public/53dbd778d7e6f751740a8d461022b554.png">
     </div>
-    <div class="content grotest-font" style="background-color: #ffffff; border-radius:20px; text-align: center; padding:40px; width:800px; margin:0 auto;">
+    <div class="content grotest-font" style="background-color: #ffffff; border-radius:20px; text-align: center; padding:5%; width:80%; margin:0 auto;">
         <h1 class="peach-font">Hi {{name}},</h1> 
         <br>
         <p>Welcome to {{school_name}}, the online school of nail art. <br>From now on you           will have access to your own personal account. This will give you unlimited             access to all your purchased courses!</p>
