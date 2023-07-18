@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'PeachCrush';
+  src: url('https://files.nailtechcentral.com/Peach_Crush.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'OakesGrotesk';
+  src: url('https://files.nailtechcentral.com/OakesGrotesk-Regular.otf') format('opentype');
+}
+
+.learnworlds-main-text-tiny, .learnworlds-main-text-very-small, .learnworlds-main-text-small, .learnworlds-main-text-normal, .learnworlds-main-text-large, .learnworlds-main-text-very-large, .learnworlds-main-text-huge {
+font-family: 'OakesGrotesk', sans-serif !important;
+}
+
+.learnworlds-heading, .learnworlds-subheading, .learnworlds-heading3, .learnworlds-heading4, .learnworlds-button {
+font-family: 'PeachCrush', sans-serif !important;
+}
+
+.lw-course-card-price {
+  font-family: 'PeachCrush', sans-serif !important;
+  font-size: 24px;
+}
+
+.lw-course-card {
+border-radius: 20px;
+overflow: hidden;
+}
+
+.mobile-nav-menu-link {
+font-size: 24px;
+margin: 10px 0;
+}
